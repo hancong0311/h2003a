@@ -8,4 +8,8 @@ package com.test;
         * @create 2021/1/20 14:50
         */
 public class Test {
+
+    public static void main(String[] args) {
+
+    }
 }
